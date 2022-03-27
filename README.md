@@ -3,4 +3,4 @@
 
 Type  | Description | cpu | mm | role |env
 ---- | -------------| ----| ---| -----| --
-ABCD  | EFGHIJKLMN  | QRS | TU | BFBF |DEV
+ABCD  | This is a new branch  | QRS | TU | BFBF |DEV
